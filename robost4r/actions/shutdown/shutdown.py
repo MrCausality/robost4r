@@ -1,0 +1,1 @@
+self.killCommand = True
